@@ -10,26 +10,26 @@ Dice_RPG disponibiliza 6 opções de dados diferentes para o usuário escolher, 
 
 ### Tipos de dados
 
--100 lados;
+-100 lados
 
 ![Dice_RPG 100](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_100.png)
 
--20 lados;
+-20 lados
 
 ![Dice_RPG 20](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_20.png)
 
--16 lados;
+-16 lados
 
 ![Dice_RPG 16](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_16.png)
 
--10 lados;
+-10 lados
 
 ![Dice_RPG 10](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_10.png)
 
--6 lados;
+-6 lados
 
 ![Dice_RPG 6](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_6.png)
 
--4 lados;
+-4 lados
 
 ![Dice_RPG 4](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_4.png)

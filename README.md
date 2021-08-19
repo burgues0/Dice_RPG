@@ -33,3 +33,7 @@ Dice_RPG disponibiliza 6 opções de dados diferentes para o usuário escolher, 
 -4 lados
 
 ![Dice_RPG 4](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_4.png)
+
+-100 lados com bônus
+
+![Dice_RPG 4](https://github.com/burgues0/Dice_RPG/blob/main/screenshots/dice_rpg_100_bonus.png)

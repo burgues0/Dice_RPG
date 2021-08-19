@@ -4,7 +4,7 @@ Dice_RPG é um programa desenvolvido para auxiliar jogadores em sessões online 
 
 O objetivo principal da criação do programa foi botar em pratica e desafiar meus conhecimentos de desenvolvimento de software em Java, além de me auxiliar em mestrar/jogar sessões de Dungeons & Dragons online.
 
-## Como funciona
+## Como funciona?
 
 Dice_RPG disponibiliza ```6``` opções de dados diferentes para o usuário escolher. Ao clicar em uma das opções, um número aleatório entre ```1``` e ```n``` lados será gerado, sendo ```n``` o número de lados do dado.
 
